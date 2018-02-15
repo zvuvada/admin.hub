@@ -19,6 +19,8 @@
         <link rel="stylesheet" href="css/icheck/skins/line/red.css" >
         <link rel="stylesheet" href="css/icheck/skins/line/green.css" >
         <link rel="stylesheet" href="css/bootstrap-tour/bootstrap-tour.css" >
+        <link rel="stylesheet" href="css/jquery-steps/jquery.steps.css" >
+
 
         <!-- ========== THEME CSS ========== -->
         <link rel="stylesheet" href="css/main.css" media="screen" >
