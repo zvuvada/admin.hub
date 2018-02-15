@@ -1,8 +1,5 @@
 <?php
 
-date_default_timezone_set('Europe/Kiev');
-
-
 // сервер БД
 define('HOST', 'localhost');
 
